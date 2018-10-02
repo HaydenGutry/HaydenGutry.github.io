@@ -1,0 +1,36 @@
+h1 {
+    colorbrown;font-size:60px;font-style:italic;text-align:center;
+}
+p a {
+    color:magenta
+}
+td {
+    color: limegreen
+}
+#p1{
+    color:pink
+}
+#li1{
+color:yellow 
+}
+#li2{
+    Color: orange
+}
+.tacos{
+    font-size: 100px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;text-decoration:lineunderline
+}
+body{
+    background-image:url(NZ.jpg); background-size:cover;background-repeat:no-repeat;
+}
+table{
+    border-color:green;border-width:10px;border-style:groove;
+}
+title{
+    font-weight:bold; font-size:40px;font-color:red; 
+}
+.lead{
+    border-color:greenyellow
+}
