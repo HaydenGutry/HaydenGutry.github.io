@@ -1,36 +1,71 @@
-h1 {
-    colorbrown;font-size:60px;font-style:italic;text-align:center;
+.logo{
+    width:120px;
 }
-p a {
-    color:magenta
-}
-td {
-    color: limegreen
-}
-#p1{
-    color:pink
-}
-#li1{
-color:yellow 
-}
-#li2{
-    Color: orange
-}
-.tacos{
-    font-size: 100px;
-}
-h1{
-    font-family: 'Times New Roman', Times, serif;text-decoration:lineunderline
-}
-body{
-    background-image:url(NZ.jpg); background-size:cover;background-repeat:no-repeat;
-}
-table{
-    border-color:green;border-width:10px;border-style:groove;
-}
-title{
-    font-weight:bold; font-size:40px;font-color:red; 
+.display-4{
+    font-family: 'Bai Jamjuree', sans-serif ;
+    text-align: center;
+    font-style:bolder;
+    font-size:80px;
+    color:white;
 }
 .lead{
-    border-color:greenyellow
+    font-family: 'Charmonman', cursive;
+    text-align:center;
+    font-style:italic;
+    font-size:25px;
+    color:white
+}
+.container{
+    background-attachment: fixed
+}
+.jumbotron {
+    background-image:url(health.jpg);
+    background-attachment: fixed;
+    background-size:100% 80%;
+  }
+.col-sm-8{
+    height:320px;
+    background-image:url(waikato.png);
+    background-attachment: scroll;
+    background-size:100% 100%;
+}
+.container{
+    padding:0.1px;
+}
+.fas{
+    font-size:40px;
+    text-align:center;
+}
+td{
+    font-style:bolder;
+    color:black;
+    text-align:center;
+}
+.col-sm-5{
+    height:500px;
+    background-image:url(ian.jpg);
+    background-attachment: fixed;
+    background-size:45% 96%;
+}
+h2{
+    font-style: bolder;
+    font-family:'Times New Roman', Times, serif
+    font-size:20px;
+    text-decoration:underline;
+}
+p{
+    font-style:italic;
+}
+h3{
+        font-style: bolder;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size:20px;
+        text-decoration:underline
+}
+.col-sm-9{
+    background-image:url(rissoles.jpeg);
+    background-attachment: fixed;
+    background-size:65% 65%;
+    background-position: right;
+    background-repeat:no-repeat;
 }
